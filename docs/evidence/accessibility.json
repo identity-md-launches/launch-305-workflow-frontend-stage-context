@@ -1,0 +1,189 @@
+{
+  "automated": [
+    {
+      "width": 1440,
+      "violations": [],
+      "passes": [
+        "aria-allowed-attr",
+        "aria-conditional-attr",
+        "aria-deprecated-role",
+        "aria-hidden-body",
+        "aria-hidden-focus",
+        "aria-prohibited-attr",
+        "aria-required-attr",
+        "aria-roles",
+        "aria-valid-attr-value",
+        "aria-valid-attr",
+        "autocomplete-valid",
+        "button-name",
+        "bypass",
+        "color-contrast",
+        "document-title",
+        "duplicate-id-aria",
+        "form-field-multiple-labels",
+        "html-has-lang",
+        "html-lang-valid",
+        "label",
+        "link-name",
+        "meta-viewport",
+        "nested-interactive",
+        "summary-name",
+        "target-size",
+        "td-headers-attr",
+        "th-has-data-cells"
+      ]
+    },
+    {
+      "width": 840,
+      "violations": [],
+      "passes": [
+        "aria-allowed-attr",
+        "aria-conditional-attr",
+        "aria-deprecated-role",
+        "aria-hidden-body",
+        "aria-hidden-focus",
+        "aria-prohibited-attr",
+        "aria-required-attr",
+        "aria-roles",
+        "aria-valid-attr-value",
+        "aria-valid-attr",
+        "autocomplete-valid",
+        "avoid-inline-spacing",
+        "button-name",
+        "bypass",
+        "color-contrast",
+        "document-title",
+        "duplicate-id-aria",
+        "form-field-multiple-labels",
+        "html-has-lang",
+        "html-lang-valid",
+        "label",
+        "link-name",
+        "meta-viewport",
+        "nested-interactive",
+        "summary-name",
+        "target-size",
+        "td-headers-attr",
+        "th-has-data-cells"
+      ]
+    },
+    {
+      "width": 390,
+      "violations": [],
+      "passes": [
+        "aria-allowed-attr",
+        "aria-conditional-attr",
+        "aria-deprecated-role",
+        "aria-hidden-body",
+        "aria-hidden-focus",
+        "aria-prohibited-attr",
+        "aria-required-attr",
+        "aria-roles",
+        "aria-valid-attr-value",
+        "aria-valid-attr",
+        "autocomplete-valid",
+        "avoid-inline-spacing",
+        "button-name",
+        "bypass",
+        "color-contrast",
+        "document-title",
+        "duplicate-id-aria",
+        "form-field-multiple-labels",
+        "html-has-lang",
+        "html-lang-valid",
+        "label",
+        "link-name",
+        "meta-viewport",
+        "nested-interactive",
+        "scrollable-region-focusable",
+        "summary-name",
+        "target-size",
+        "td-headers-attr",
+        "th-has-data-cells"
+      ]
+    },
+    {
+      "width": 320,
+      "violations": [],
+      "passes": [
+        "aria-allowed-attr",
+        "aria-conditional-attr",
+        "aria-deprecated-role",
+        "aria-hidden-body",
+        "aria-hidden-focus",
+        "aria-prohibited-attr",
+        "aria-required-attr",
+        "aria-roles",
+        "aria-valid-attr-value",
+        "aria-valid-attr",
+        "autocomplete-valid",
+        "avoid-inline-spacing",
+        "button-name",
+        "bypass",
+        "color-contrast",
+        "document-title",
+        "duplicate-id-aria",
+        "form-field-multiple-labels",
+        "html-has-lang",
+        "html-lang-valid",
+        "label",
+        "link-name",
+        "meta-viewport",
+        "nested-interactive",
+        "scrollable-region-focusable",
+        "summary-name",
+        "target-size",
+        "td-headers-attr",
+        "th-has-data-cells"
+      ]
+    }
+  ],
+  "contrast": [
+    {
+      "selector": ".intro-note p",
+      "foreground": "rgb(41, 39, 31)",
+      "background": "rgb(245, 242, 233)",
+      "ratio": 13.36
+    },
+    {
+      "selector": ".claim-footnote",
+      "foreground": "rgb(104, 98, 87)",
+      "background": "rgb(251, 249, 243)",
+      "ratio": 5.74
+    },
+    {
+      "selector": ".king-caption",
+      "foreground": "rgb(208, 197, 207)",
+      "background": "rgb(57, 46, 61)",
+      "ratio": 7.7
+    },
+    {
+      "selector": ".button.primary",
+      "foreground": "rgb(251, 249, 243)",
+      "background": "rgb(156, 62, 38)",
+      "ratio": 6.37
+    },
+    {
+      "selector": ".throne-card .eyebrow",
+      "foreground": "rgb(208, 197, 207)",
+      "background": "rgb(57, 46, 61)",
+      "ratio": 7.7
+    },
+    {
+      "selector": ".rules-copy",
+      "foreground": "rgb(41, 39, 31)",
+      "background": "rgb(245, 242, 233)",
+      "ratio": 13.36
+    },
+    {
+      "selector": ".history-range",
+      "foreground": "rgb(104, 98, 87)",
+      "background": "rgb(245, 242, 233)",
+      "ratio": 5.4
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "reducedMotion": true,
+  "textEnlargement": "200% at 840px; not native browser zoom"
+}

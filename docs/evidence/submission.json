@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-09-27",
+  "rootCommitCreated": false,
+  "rootGitFailure": "git add -- web dist docs: .git/index.lock: Read-only file system",
+  "protectedTrackedFilesUnchanged": true,
+  "newFileScopeChecked": true,
+  "ignoreFileBudget": [
+    "web/.gitignore"
+  ],
+  "dependencyOrCacheArtifactsInSubmission": false,
+  "gitSubmodules": 0,
+  "budgetBytes": 8388608,
+  "bundleCheck": "Scratch-only full-history Git bundle of baseline plus allowed deliverables; evidence size record is updated after measurement.",
+  "fullHistoryBundleBytes": 2905230,
+  "bundleSha256": "cb3914bac1dc6cd7ef8953b6f7815b5dc429bce61cd1ce98f1ce1485178ddd7a",
+  "bundleHeadIsScratchOnly": true,
+  "allowedDeliverableFileCount": 52,
+  "allowedDeliverableRawBytes": 3041239,
+  "finalAssetCount": 8,
+  "finalExportBytesIncludingManifest": 628038
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "rpc": "https://ethereum-sepolia-rpc.publicnode.com",
+    "checkedAt": "2026-09-27T06:02:52.402Z",
+    "chainId": 11155111,
+    "contracts": [
+      {
+        "name": "LaunchToken",
+        "address": "0x4ec36a35e2eb384d324961c629344067b47d3cd4",
+        "runtimeBytes": 1802,
+        "totalSupply": "1000000000000000000000000000"
+      },
+      {
+        "name": "KingOfTheHill",
+        "address": "0xd4d16b85ec3013ddbb95003af780fccdff5e11c5",
+        "runtimeBytes": 2326,
+        "token": "0x4ec36A35E2EB384D324961c629344067b47D3Cd4"
+      }
+    ],
+    "blockNumber": "11791410",
+    "blockTimestamp": "1790488968",
+    "ok": true
+  },
+  {
+    "rpc": "https://rpc.sepolia.ethpandaops.io",
+    "checkedAt": "2026-09-27T06:02:52.651Z",
+    "chainId": 11155111,
+    "contracts": [
+      {
+        "name": "LaunchToken",
+        "address": "0x4ec36a35e2eb384d324961c629344067b47d3cd4",
+        "runtimeBytes": 1802,
+        "totalSupply": "1000000000000000000000000000"
+      },
+      {
+        "name": "KingOfTheHill",
+        "address": "0xd4d16b85ec3013ddbb95003af780fccdff5e11c5",
+        "runtimeBytes": 2326,
+        "token": "0x4ec36A35E2EB384D324961c629344067b47D3Cd4"
+      }
+    ],
+    "blockNumber": "11791410",
+    "blockTimestamp": "1790488968",
+    "ok": true
+  },
+  {
+    "rpc": "https://sepolia.rpc.sentio.xyz",
+    "checkedAt": "2026-09-27T06:02:52.907Z",
+    "chainId": 11155111,
+    "contracts": [
+      {
+        "name": "LaunchToken",
+        "address": "0x4ec36a35e2eb384d324961c629344067b47d3cd4",
+        "runtimeBytes": 1802,
+        "totalSupply": "1000000000000000000000000000"
+      },
+      {
+        "name": "KingOfTheHill",
+        "address": "0xd4d16b85ec3013ddbb95003af780fccdff5e11c5",
+        "runtimeBytes": 2326,
+        "token": "0x4ec36A35E2EB384D324961c629344067b47D3Cd4"
+      }
+    ],
+    "blockNumber": "11791410",
+    "blockTimestamp": "1790488968",
+    "ok": true
+  }
+]
